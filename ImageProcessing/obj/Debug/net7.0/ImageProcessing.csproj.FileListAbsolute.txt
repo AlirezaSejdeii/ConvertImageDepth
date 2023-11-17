@@ -17,4 +17,5 @@ D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\obj\Debug\net7.0\ref
 D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\obj\Debug\net7.0\ImageProcessing.pdb
 D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\obj\Debug\net7.0\ImageProcessing.genruntimeconfig.cache
 D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\obj\Debug\net7.0\ref\ImageProcessing.dll
-D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\bin\Debug\net7.0\mainGrayScaleImage.png
+D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\bin\Debug\net7.0\Picture1.jpg
+D:\Codes\dotnet\SampleMongo\ImageProcessing\ImageProcessing\bin\Debug\net7.0\mainGrayScaleImage.jpg

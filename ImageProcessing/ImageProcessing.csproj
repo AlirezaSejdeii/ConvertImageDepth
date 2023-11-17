@@ -13,7 +13,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Update="mainGrayScaleImage.png">
+      <None Update="mainGrayScaleImage.jpg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="Picture1.jpg">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
     </ItemGroup>
