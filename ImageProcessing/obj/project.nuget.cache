@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIcdYf/0/CMAausTPhBnsMtwYV+Ew8bVG9d9bnjHCyPqZR8lA6xlQT/yCCWGRC7o7y38P8bYlTK3dDUBirUopQ==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\dotnet\\SampleMongo\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
