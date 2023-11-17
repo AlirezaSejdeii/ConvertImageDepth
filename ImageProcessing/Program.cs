@@ -39,5 +39,3 @@ int[,] grid = new int[,]
 Bitmap bitmap = Converter.MakeBitmap(grid);
 bitmap.Save("newImage.png");
 Converter.RotateImage45Degrees(bitmap, "newImage_rotated45d.png");
-
-// Converter.CreateAndRotate(grid);
